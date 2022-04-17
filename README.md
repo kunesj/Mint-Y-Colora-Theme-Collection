@@ -27,7 +27,7 @@ How to build themes yourself
 1. Prepare code and data for theme generation
 ```
 git clone https://github.com/kunesj/mint-themes.git 1.7.3
-git clone https://github.com/kunesj/Mint-Y-Colora-Theme.git 1.7.3
+git clone https://github.com/kunesj/Mint-Y-Colora-Theme.git mint-themes-1.7.3
 cp Mint-Y-Colora-Theme/*.sh mint-themes/
 cp Mint-Y-Colora-Theme/*.py mint-themes/
 cd mint-themes/
